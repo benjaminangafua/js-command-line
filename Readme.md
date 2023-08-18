@@ -1,15 +1,17 @@
+> Heading
 
 # Heading
 
-<h1>HTML Assignment</h1>
 
-Link: [My website](https:www.ngafua.com)
+> Link
 
-<a href="https:www.ngafua.com"> My website</a>
+[My website](https:www.ngafua.com)
 
+
+> Bold text
 **Make this text bold**
 
-<b>Make this text bold</b>
+> List
 
 1. List
 2. List 1
@@ -21,7 +23,7 @@ Link: [My website](https:www.ngafua.com)
 + Code
 + Sleep
 
-Embede a code
+> Embede a code
 
 ```js
 	var app = {}
